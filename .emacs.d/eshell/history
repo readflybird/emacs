@@ -1,0 +1,25 @@
+ls
+pwd
+cd d
+cd d:
+ls
+cd e:
+ls
+cd MyServer/
+cd ../MyDoc
+ls
+cd utils/
+ls
+cd ..
+ls
+cd ..
+cd APMDocs/
+ls
+cd MyDocs/
+ls
+cd shellscript/
+ls
+./mysvn_up.sh
+ls -al mysvn_up.sh 
+chmod +x mysvn_up.sh
+ls -al mysvn_up.sh 

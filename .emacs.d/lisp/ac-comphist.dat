@@ -1,0 +1,64 @@
+((("style" .
+   [2 0 0 0 0])
+  ("visibility" .
+   [0 0 0 0 2 0 1 0 0 0])
+  ("displayQuiz" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("option" .
+   [0 0 0 0 0 1])
+  ("label" .
+   [3 0 0 0 0])
+  ("createElement" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("selectedOption" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("custom-theme-load-path" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("add-to-list" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("defun" .
+   [1 0 0 0 0])
+  ("function" .
+   [4 0 0 0 0 0 0 0])
+  ("var" .
+   [17 0 0])
+  ("question" .
+   [4 0 0 0 0 0 0 0])
+  ("score" .
+   [6 0 0 0 0])
+  ("options" .
+   [8 0 0 0 0 0 0])
+  ("answer" .
+   [2 0 0 1 0 0])
+  ("quiz1" .
+   [1 0 0 0 0])
+  ("quiz2" .
+   [1 0 0 0 0])
+  ("quiz3" .
+   [1 0 0 0 0])
+  ("allQuestions" .
+   [5 0 0 0 0 1 0 0 0 0 0 0])
+  ("document" .
+   [11 0 0 0 0 1 1 0])
+  ("getElementById" .
+   [2 0 0 2 3 2 0 0 0 0 0 0 1 0])
+  ("radioInput" .
+   [5 0 0 0 0 0 0 0 0 0])
+  ("setAttribute" .
+   [0 0 0 2 1 1 0 0 0 0 0 0])
+  ("quiz" .
+   [9 0 0 0])
+  ("length" .
+   [2 0 1 0 0 0])
+  ("childNodes" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("questionIndex" .
+   [3 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("countScore" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("display" .
+   [0 0 0 1 0 0 0])
+  ("innerHTML" .
+   [0 0 0 0 0 2 1 0 0])
+  ("hide" .
+   [2 0 0 0])))
